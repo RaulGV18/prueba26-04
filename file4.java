@@ -1,1 +1,2 @@
-otro texto
+public class balbinonosecalla{
+}

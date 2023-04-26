@@ -1,1 +1,3 @@
-texto sin mas
+public class ramensiglo12{
+
+}
